@@ -5,11 +5,10 @@
         <v-parallax :src="require('../assets/hero.jpg')" height="600">
           <v-layout column align-center justify-center class="white--text">
             <h1 class="white--text mb-2 display-1 text-xs-center">Campus to Corporate</h1>
-            <router-link :to="{name: 'about-us'}">
-              <v-btn class="blue lighten-2 mt-5" dark large>
-                About Us
-              </v-btn>
-            </router-link>
+
+            <v-btn class="blue lighten-2 mt-5" dark large to="/AboutUs">
+              About Us
+            </v-btn>
 
           </v-layout>
         </v-parallax>

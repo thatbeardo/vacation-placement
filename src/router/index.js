@@ -8,11 +8,15 @@ Vue.use(Router)
 export default new Router({
   mode: 'history',
   routes: [
-
     {
-      path: '/vaccation-placement',
+      path: '/',
       name: 'LandingPage',
       component: LandingPage
+    },
+    {
+      path: '/aboutUs',
+      name: 'AboutUs',
+      component: AboutUs
     },
   ]
 })
