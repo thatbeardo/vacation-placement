@@ -18,7 +18,7 @@
             <div class="text-xs-center">
               <h2 class="headline">The best way to learn coding</h2>
               <span class="subheading">
-                Cras facilisis mi vitae nunc
+                Learn from people who have been in your shoes 
               </span>
             </div>
           </v-flex>
@@ -34,7 +34,7 @@
                       <div class="headline text-xs-center">Embark</div>
                     </v-card-title>
                     <v-card-text>
-                      Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam in aliquet odio. Aliquam eu est vitae tellus bibendum tincidunt. Suspendisse potenti.
+                      {{embark}}
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -47,7 +47,7 @@
                       <div class="headline">Train</div>
                     </v-card-title>
                     <v-card-text>
-                      Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam in aliquet odio. Aliquam eu est vitae tellus bibendum tincidunt. Suspendisse potenti.
+                      {{train}}  
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -60,7 +60,7 @@
                       <div class="headline text-xs-center">Achieve</div>
                     </v-card-title>
                     <v-card-text>
-                      Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam in aliquet odio. Aliquam eu est vitae tellus bibendum tincidunt. Suspendisse potenti.
+                      {{ achieve }}  
                     </v-card-text>
                   </v-card>
                 </v-flex>
@@ -75,7 +75,7 @@
           <v-layout column align-center justify-center>
             <div class="headline white--text mb-3 text-xs-center">Learning to code has never been easier</div>
             <em>Make the most of your weekends</em>
-            <v-btn class="blue lighten-2 mt-5" dark large href="/pre-made-themes">
+            <v-btn class="blue lighten-2 mt-5" dark large to="/HallOfFame">
               Hall of Fame
             </v-btn>
           </v-layout>
@@ -91,7 +91,7 @@
                   <div class="headline">Company info</div>
                 </v-card-title>
                 <v-card-text>
-                  Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nullam in aliquet odio. Aliquam eu est vitae tellus bibendum tincidunt. Suspendisse potenti.
+                  {{ companyInfo }}  
                 </v-card-text>
               </v-card>
             </v-flex>
@@ -101,7 +101,7 @@
                   <div class="headline">Contact us</div>
                 </v-card-title>
                 <v-card-text>
-                  Cras facilisis mi vitae nunc lobortis pharetra. Nulla volutpat tincidunt ornare.
+                  {{ contact }}
                 </v-card-text>
                 <v-list class="transparent">
                   <v-list-tile>
@@ -158,7 +158,29 @@ export default {
   name: 'LandingPage',
   data () {
     return {
-      msg: ''
+      embark:
+        `Make a commitment. Live it, breathe it. Allow us to be an integral part of this extraordinary journey you are about to embark upon.
+        This will undoubtedly be the most memorable adventure of your lifetime. Let us gear you with all necessities to ensure maximum throughput
+        and least frustration.`, 
+        
+        train: 
+        `Blood, sweat and respect. The first two you give (well, kinda!) and third you earn. Say good bye to binge watching your favorite series. 
+        Bid farewell to slacking on weekends. Say hello to a rigorous training regime. Our curriculum is battle tested. After that hall of fame 
+        is not made up.`, 
+
+        achieve: 
+        `Once it is all over, we want you to carve out a place in the hall of fame. We ensure you this programme will give you the best returns on 
+        investment. After all, Education is the only investment that is not subjected to diminishing returns. Let's recover that engineering fees 
+        as soon as possible now, shall we?`, 
+
+        companyInfo: 
+        `Company? naah! Just two good professors. After graduating in 2015, we witnessed a disconnect between what is needed to get into a dream 
+        company and what is available at our disposal. We are just two software developers (and professors too! duh!) who wish to teach and preach 
+        programming. `,
+        
+        contact: 
+        `Well, we don't really have an office! But if you really want to, get touch with Harshil. Havan is probably snoring in the US when we are up.
+        Oh, don't worry! He will definitely be a part of it.`
     }
   }
 }
