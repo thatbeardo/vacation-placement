@@ -2,7 +2,7 @@
   <v-app light>
     <v-content>
       <section>
-        <v-parallax :src="require('../assets/hero.jpeg')" height="600">
+        <v-parallax :src="require('../assets/hero.jpg')" height="600">
           <v-layout column align-center justify-center class="white--text">
             <h1 class="white--text mb-2 display-1 text-xs-center">Campus to Corporate</h1>
             <v-btn class="blue lighten-2 mt-5" dark large>
@@ -71,7 +71,7 @@
       </section>
 
       <section>
-        <v-parallax :src="require('../assets/section.png')" height="380">
+        <v-parallax :src="require('../assets/section.jpg')" height="380">
           <v-layout column align-center justify-center>
             <div class="headline white--text mb-3 text-xs-center">Learning to code has never been easier</div>
             <em>Make the most of your weekends</em>
@@ -155,7 +155,7 @@
 
 <script>
 export default {
-  name: "HelloWorld",
+  name: "LandingPage",
   data() {
     return {
       msg: ""
