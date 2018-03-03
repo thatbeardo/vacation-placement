@@ -11,6 +11,11 @@ export default new Router({
       path: '/vaccation-placement/',
       name: 'HelloWorld',
       component: HelloWorld
+    },
+    {
+      path: '/',
+      name: 'HelloWorld',
+      component: HelloWorld
     }
   ]
 })
