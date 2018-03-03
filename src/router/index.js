@@ -10,7 +10,7 @@ export default new Router({
   routes: [
 
     {
-      path: '/',
+      path: '/vaccation-placement',
       name: 'LandingPage',
       component: LandingPage
     },
