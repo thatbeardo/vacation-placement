@@ -1,9 +1,5 @@
 <template>
-  <div id="app">
-    <img src="./assets/logo.png">
-    <v-btn>Test</v-btn>
-    <router-view/>
-  </div>
+  <router-view></router-view>
 </template>
 
 <script>
