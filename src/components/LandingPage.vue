@@ -155,12 +155,11 @@
 
 <script>
 export default {
-  name: "LandingPage",
-  data() {
+  name: 'LandingPage',
+  data () {
     return {
-      msg: ""
-    };
+      msg: ''
+    }
   }
-};
+}
 </script>
-

@@ -22,6 +22,6 @@ export default new Router({
       path: '/hallOfFame',
       name: 'HallOfFame',
       component: AboutUs
-    },
+    }
   ]
 })

@@ -1,14 +1,14 @@
 <template>
-    <h1>About us goes here</h1>
+  <h1>About us goes here</h1>
 </template>
 
 <script>
 export default {
-  name: "AboutUs",
-  data() {
+  name: 'AboutUs',
+  data () {
     return {
-      msg: ""
-    };
+      msg: ''
+    }
   }
-};
+}
 </script>
