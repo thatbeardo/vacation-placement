@@ -5,9 +5,12 @@
         <v-parallax :src="require('../assets/hero.jpg')" height="600">
           <v-layout column align-center justify-center class="white--text">
             <h1 class="white--text mb-2 display-1 text-xs-center">Campus to Corporate</h1>
-            <v-btn class="blue lighten-2 mt-5" dark large>
-              Get Started
-            </v-btn>
+            <router-link :to="{name: 'about-us'}">
+              <v-btn class="blue lighten-2 mt-5" dark large>
+                About Us
+              </v-btn>
+            </router-link>
+
           </v-layout>
         </v-parallax>
       </section>
@@ -76,7 +79,7 @@
             <div class="headline white--text mb-3 text-xs-center">Learning to code has never been easier</div>
             <em>Make the most of your weekends</em>
             <v-btn class="blue lighten-2 mt-5" dark large href="/pre-made-themes">
-              Get Started
+              Hall of Fame
             </v-btn>
           </v-layout>
         </v-parallax>
