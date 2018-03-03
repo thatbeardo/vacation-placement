@@ -4,13 +4,11 @@
       <section>
         <v-parallax :src="require('../assets/hero.jpg')" height="600">
           <v-layout column align-center justify-center class="white--text">
-            <h1 class="white--text mb-2 display-1 text-xs-center">Campus to Corporate</h1>
-
+            <h1 class="white--text mb-2 display-4 text-xs-center">Campus to Corporate</h1>
             <v-btn class="blue lighten-2 mt-5" dark large to="/AboutUs">
               About Us
             </v-btn>
-
-          </v-layout>
+          </v-layout>`
         </v-parallax>
       </section>
 
@@ -137,7 +135,7 @@
         </v-container>
       </section>
 
-      <v-footer class="blue darken-2">
+      <v-footer class="blue light-2">
         <v-layout row wrap align-center>
           <v-flex xs12>
             <div class="white--text ml-3">

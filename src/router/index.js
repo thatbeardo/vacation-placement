@@ -18,5 +18,10 @@ export default new Router({
       name: 'AboutUs',
       component: AboutUs
     },
+    {
+      path: '/hallOfFame',
+      name: 'HallOfFame',
+      component: AboutUs
+    },
   ]
 })
