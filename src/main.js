@@ -4,10 +4,12 @@ import Vue from 'vue'
 import App from './App'
 import router from './router'
 import Vuetify from 'vuetify'
+import StudentCard from './components/StudentCard'
 
 Vue.config.productionTip = false
 Vue.use(Vuetify)
-/* eslint-disable no-new */
+Vue.component('student-card', StudentCard)
+
 new Vue({
   el: '#app',
   router,
