@@ -134,21 +134,6 @@
           </v-layout>
         </v-container>
       </section>
-
-      <v-footer class="blue light-2">
-        <v-layout row wrap align-center>
-          <v-flex xs12>
-            <div class="white--text ml-3">
-              Made with
-              <v-icon class="red--text">favorite</v-icon>
-              by
-              <a class="white--text" href="https://www.linkedin.com/in/havanagrawal/" target="_blank">Havan</a>
-              and
-              <a class="white--text" href="https://www.linkedin.com/in/harshil-mavani/">Harshil</a>
-            </div>
-          </v-flex>
-        </v-layout>
-      </v-footer>
     </v-content>
   </v-app>
 </template>
