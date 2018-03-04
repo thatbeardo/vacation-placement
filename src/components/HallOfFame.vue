@@ -1,15 +1,9 @@
 <template>
   <v-app>
-    <v-toolbar class="white">
-      <v-toolbar-title v-text="title"></v-toolbar-title>
-      <v-spacer></v-spacer>
-      <v-btn icon>
-        <v-icon>home</v-icon>
-      </v-btn>
-    </v-toolbar>
+
     <v-content>
       <section>
-        <v-parallax :src="require('../assets/hero.jpg')" height="600">
+        <v-parallax :src="require('../assets/victory.jpg')" height="600">
           <v-layout column align-center justify-center class="white--text">
             <h1 class="white--text mb-2 display-4 text-xs-center">Hall of Fame</h1>
           </v-layout>
@@ -54,44 +48,24 @@ export default {
         "It is amazing how we can host this website for free and have a massive impact on publicity"
     });
     this.studentList.push({
-      firstName: "Harshil",
-      lastName: "Mavani",
+      firstName: "Havan",
+      lastName: "Agrawal",
       designation: "Software Engineer",
-      company: "Cimpress India",
+      company: "Morgan Stanley",
       avatar: "",
-      year: "2015",
+      year: "2016",
       testimony:
-        "It is amazing how we can host this website for free and have a massive impact on publicity"
+        "Harshil is amazing. His teaching skills are god like. I feel he should get the next Bharat Ratna"
     });
     this.studentList.push({
-      firstName: "Harshil",
-      lastName: "Mavani",
+      firstName: "Devika",
+      lastName: "Shanbhag",
       designation: "Software Engineer",
-      company: "Cimpress India",
+      company: "J.P. Morgan",
       avatar: "",
-      year: "2015",
+      year: "2017",
       testimony:
-        "It is amazing how we can host this website for free and have a massive impact on publicity"
-    });
-    this.studentList.push({
-      firstName: "Harshil",
-      lastName: "Mavani",
-      designation: "Software Engineer",
-      company: "Cimpress India",
-      avatar: "",
-      year: "2015",
-      testimony:
-        "It is amazing how we can host this website for free and have a massive impact on publicity"
-    });
-    this.studentList.push({
-      firstName: "Harshil",
-      lastName: "Mavani",
-      designation: "Software Engineer",
-      company: "Cimpress India",
-      avatar: "",
-      year: "2015",
-      testimony:
-        "It is amazing how we can host this website for free and have a massive impact on publicity"
+        "Harshil is the most refined professor there ever will be. Havan needs to learn from Harshil"
     });
   }
 };
