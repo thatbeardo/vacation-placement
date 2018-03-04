@@ -33,7 +33,7 @@
                     <v-card-title primary-title class="layout justify-center">
                       <div class="headline text-xs-center">Embark</div>
                     </v-card-title>
-                    <v-card-text>
+                    <v-card-text class="text-xs-justify">
                       {{embark}}
                     </v-card-text>
                   </v-card>
@@ -46,7 +46,7 @@
                     <v-card-title primary-title class="layout justify-center">
                       <div class="headline">Train</div>
                     </v-card-title>
-                    <v-card-text>
+                    <v-card-text class="text-xs-justify">
                       {{train}}
                     </v-card-text>
                   </v-card>
@@ -59,7 +59,7 @@
                     <v-card-title primary-title class="layout justify-center">
                       <div class="headline text-xs-center">Achieve</div>
                     </v-card-title>
-                    <v-card-text>
+                    <v-card-text class="text-xs-justify">
                       {{ achieve }}
                     </v-card-text>
                   </v-card>
@@ -90,7 +90,7 @@
                 <v-card-title primary-title class="layout justify-center">
                   <div class="headline">Company info</div>
                 </v-card-title>
-                <v-card-text>
+                <v-card-text class="text-xs-justify">
                   {{ companyInfo }}
                 </v-card-text>
               </v-card>
@@ -100,7 +100,7 @@
                 <v-card-title primary-title class="layout justify-center">
                   <div class="headline">Contact us</div>
                 </v-card-title>
-                <v-card-text>
+                <v-card-text class="text-xs-justify">
                   {{ contact }}
                 </v-card-text>
                 <v-list class="transparent">
@@ -165,3 +165,7 @@ export default {
   }
 };
 </script>
+
+<style>
+
+</style>
