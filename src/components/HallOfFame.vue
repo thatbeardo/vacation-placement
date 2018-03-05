@@ -11,9 +11,9 @@
       </section>
 
       <section>
-        <v-container fluid grid-list-lg>
-          <v-layout row wrap>
-            <v-flex xs12 lg4 v-for="student in studentList" :key="student.lastName">
+        <v-container fluid grid-list-xl>
+          <v-layout row wrap justify-space-around="">
+            <v-flex xs12 md4 lg3 xl3 v-for="student in studentList" :key="student.lastName">
               <student-card :studentData="student"></student-card>
             </v-flex>
           </v-layout>
@@ -26,6 +26,7 @@
 
 <script>
 import StudentCard from "./StudentCard";
+import * as studentList from "../data/students";
 export default {
   name: "HallOfFame",
   component: { StudentCard },
@@ -37,36 +38,7 @@ export default {
     };
   },
   created() {
-    this.studentList.push({
-      firstName: "Harshil",
-      lastName: "Mavani",
-      designation: "Software Engineer",
-      company: "Cimpress India",
-      avatar: "",
-      year: "2015",
-      testimony:
-        "It is amazing how we can host this website for free and have a massive impact on publicity"
-    });
-    this.studentList.push({
-      firstName: "Havan",
-      lastName: "Agrawal",
-      designation: "Software Engineer",
-      company: "Morgan Stanley",
-      avatar: "",
-      year: "2016",
-      testimony:
-        "Harshil is amazing. His teaching skills are god like. I feel he should get the next Bharat Ratna"
-    });
-    this.studentList.push({
-      firstName: "Devika",
-      lastName: "Shanbhag",
-      designation: "Software Engineer",
-      company: "J.P. Morgan",
-      avatar: "",
-      year: "2017",
-      testimony:
-        "Harshil is the most refined professor there ever will be. Havan needs to learn from Harshil"
-    });
+    this.studentList = studentList;
   }
 };
 </script>
