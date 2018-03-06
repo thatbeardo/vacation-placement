@@ -144,23 +144,23 @@ export default {
   data() {
     return {
       embark: `Make a commitment. Live it, breathe it. Allow us to be an integral part of this extraordinary journey you are about to embark upon.
-        This will undoubtedly be the most memorable adventure of your lifetime. Let us gear you with all necessities to ensure maximum throughput
-        and least frustration.`,
+        This will undoubtedly be the most memorable adventure of your lifetime. Let us gear you with all the necessities to ensure maximum throughput
+        and minimum frustration.`,
 
-      train: `Blood, sweat and respect. The first two you give (well, kinda!) and third you earn. Say good bye to binge watching your favorite series. 
-        Bid farewell to slacking on weekends. Say hello to a rigorous training regime. Our curriculum is battle tested. After that hall of fame 
+      train: `Blood, sweat and respect. The first two you give (well, kinda!) and the third you earn. Say good bye to binge watching your favorite series. 
+        Bid farewell to slacking on weekends. And say hello to a rigorous training regime. Our curriculum is battle tested. After that hall of fame 
         is not made up.`,
 
-      achieve: `Once it is all over, we want you to carve out a place in the hall of fame. We ensure you this programme will give you the best returns on 
+      achieve: `Once it is all over, we want YOU to carve out a place in the hall of fame. We ensure you that this programme will give you the best returns on 
         investment. After all, Education is the only investment that is not subjected to diminishing returns. Let's recover that engineering fees 
         as soon as possible now, shall we?`,
 
-      companyInfo: `Company? naah! Just two good professors. After graduating in 2015, we witnessed a disconnect between what is needed to get into a dream 
+      companyInfo: `Company? Naah! Just two really good professors. After graduating in 2015, we witnessed a disconnect between what is needed to get into a dream 
         company and what is available at our disposal. We are just two software developers (and professors too! duh!) who wish to teach and preach 
         programming. `,
 
-      contact: `Well, we don't really have an office! But if you really want to, get touch with Harshil. Havan is probably snoring in the US when we are up.
-        Oh, don't worry! He will definitely be a part of it.`
+      contact: `Well, we don't really have an office! But if you really want to, get in touch with Harshil. Havan is probably snoring in the US when we are up.
+        Oh, don't worry! He knows how to use skype.`
     };
   }
 };
