@@ -17,20 +17,22 @@
                 </v-container>
             </div>
         </v-card-title>
+        <v-flex xs12 md12>
 
-        <v-card-actions>
-            <v-btn flat color="blue " @click.native="show=! show ">Here's what {{ studentData.firstName }} has to say</v-btn>
-            <v-spacer></v-spacer>
-            <v-btn icon @click.native="show=! show ">
-                <v-icon>{{ show ? 'keyboard_arrow_up' : 'keyboard_arrow_down' }}</v-icon>
-            </v-btn>
-        </v-card-actions>
+            <v-card-actions>
+                <v-btn flat color="blue " @click.native="show=! show ">{{ studentData.firstName }}'s take on C2C </v-btn>
+                <v-spacer></v-spacer>
+                <v-btn icon @click.native="show=! show ">
+                    <v-icon>{{ show ? 'keyboard_arrow_up' : 'keyboard_arrow_down' }}</v-icon>
+                </v-btn>
+            </v-card-actions>
 
-        <v-slide-y-transition>
-            <v-card-text v-show="show ">
-                {{ studentData.testimony }}
-            </v-card-text>
-        </v-slide-y-transition>
+            <v-slide-y-transition>
+                <v-card-text v-show="show ">
+                    {{ studentData.testimony }}
+                </v-card-text>
+            </v-slide-y-transition>
+        </v-flex>
     </v-card>
 </template>
 
