@@ -10,11 +10,17 @@
         </v-parallax>
       </section>
 
-      <section>
+      <section class="my-5">
         <v-container fluid grid-list-xl>
-          <v-layout row wrap justify-space-around="">
-            <v-flex xs12 md4 lg3 xl3 v-for="student in studentList" :key="student.lastName">
-              <student-card :studentData="student"></student-card>
+          <v-layout row wrap justify-space-around>
+            <v-flex xs12 md8 xl8>
+              <v-layout row wrap justify-space-between>
+
+                <v-flex xs12 md4 lg3 xl3 v-for="student in studentList" :key="student.lastName">
+                  <student-card :studentData="student"></student-card>
+                </v-flex>
+              </v-layout>
+
             </v-flex>
           </v-layout>
         </v-container>
