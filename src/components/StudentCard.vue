@@ -1,7 +1,7 @@
 
 <template>
     <v-card>
-        <v-card-media :src="studentData.avatar" height=" 200px ">
+        <v-card-media :src="studentData.avatar" height=" 200px" contain>
         </v-card-media>
         <v-card-title primary-title>
             <div>
@@ -18,20 +18,20 @@
             </div>
         </v-card-title>
         <v-flex xs12 md12>
-
             <v-card-actions>
                 <v-btn flat color="blue " @click.native="show=! show ">{{ studentData.firstName }}'s take on C2C </v-btn>
-                <v-spacer></v-spacer>
-                <v-btn icon @click.native="show=! show ">
-                    <v-icon>{{ show ? 'keyboard_arrow_up' : 'keyboard_arrow_down' }}</v-icon>
-                </v-btn>
             </v-card-actions>
+            <v-dialog v-model="show" max-width="400">
+                <v-card>
+                    <v-card-title class="headline">Here's what {{studentData.firstName}} has to say</v-card-title>
+                    <v-card-text class="text-xs-justify">{{studentData.testimony}}</v-card-text>
+                    <v-card-actions>
+                        <v-spacer></v-spacer>
+                        <v-btn color="green darken-1" flat="flat" @click.native="show = false">Close</v-btn>
+                    </v-card-actions>
+                </v-card>
+            </v-dialog>
 
-            <v-slide-y-transition>
-                <v-card-text v-show="show ">
-                    {{ studentData.testimony }}
-                </v-card-text>
-            </v-slide-y-transition>
         </v-flex>
     </v-card>
 </template>

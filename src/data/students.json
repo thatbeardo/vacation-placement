@@ -4,71 +4,79 @@
     "lastName": "Ganapathi",
     "designation": "Software Engineer",
     "company": "Cimpress India",
-    "avatar": "https://i.imgur.com/6pObqPN.jpg",
+    "avatar": "https://i.imgur.com/Vup9UeE.jpg",
     "year": "2016",
-    "testimony": "I am a student of Computer Engineering, now placed in Cimpress India Pvt Ltd. C2C gave me my job. C2C helped me make sense of three years' worth of knowledge received in college and taught me which topics to study and how much. The technical training provided was top rate and it was given in a way that was easy to understand and remember. Soft skills were my weakness, but C2C taught me the rules so well. Excelling in soft skills is all about following the rules and etiquettes. And once C2C gave them to me, it was easy. Thank you, C2C!"
+    "testimony":
+      "I am a student of Computer Engineering, now placed in Cimpress India Pvt Ltd. C2C gave me my job. C2C helped me make sense of three years' worth of knowledge received in college and taught me which topics to study and how much. The technical training provided was top rate and it was given in a way that was easy to understand and remember. Soft skills were my weakness, but C2C taught me the rules so well. Excelling in soft skills is all about following the rules and etiquettes. And once C2C gave them to me, it was easy. Thank you, C2C!"
   },
   {
     "firstName": "Devika",
     "lastName": "Shanbhag",
     "designation": "Technology Analyst",
     "company": "J.P. Morgan Chase",
-    "avatar": "https://ibb.co/nExbL7",
+    "avatar": "https://image.ibb.co/fHHbL7/devikabw.jpg",
     "year": "2017",
-    "testimony": "Currently busy serving Harshil's incessant work demands. Expect the best one to turn up here."
+    "testimony":
+      "Currently busy serving Harshil's incessant work demands. Expect the best one to turn up here."
   },
   {
     "firstName": "Vikrant",
     "lastName": "Choudhary",
     "designation": "Barclays Analyst",
     "company": "Barclays",
-    "avatar": "https://ibb.co/c9LhSn",
+    "avatar": "https://image.ibb.co/ipq5f7/vikrantbw.jpg",
     "year": "2017",
-    "testimony": "Learning was simply fun at C2C. It covers all important topics that are required to crack any company's hiring process. Right from basics to solving complex DP problems. Regular tests at hackerrank made sure that you get a good hold of the concepts taught and more importantly you get an experience of coding on a platform used by most companies for their coding round. But the best part, you learn from your fellow seniors. They are like your friends who help you even the night before the semester exams :p"
+    "testimony":
+      "Learning was simply fun at C2C. It covers all important topics that are required to crack any company's hiring process. Right from basics to solving complex DP problems. Regular tests at hackerrank made sure that you get a good hold of the concepts taught and more importantly you get an experience of coding on a platform used by most companies for their coding round. But the best part, you learn from your fellow seniors. They are like your friends who help you even the night before the semester exams :p"
   },
   {
     "firstName": "Aakash",
     "lastName": "Mishra",
     "designation": "Barclays Analyst",
     "company": "Barclays",
-    "avatar": "https://ibb.co/ksDrL7",
+    "avatar": "https://image.ibb.co/hRbYYS/aakashbw.jpg",
     "year": "2017",
-    "testimony": "It wouldn't be an exaggeration if I said that C2C was easily one of the best things to have happened in these 4 years of engineering, if not THE best. The way Havan made me feel about Java..If you feel even half those things for a girl, believe me, she's the one :P Jokes aside, this was the best teaching-learning experience of my life. Helped massively in placements of course but more importantly it was a reminder of two things. One, you don't nearly know as much as you think you do. Two, it's actually REALLY fun and not that complicated. I will also never forget Harshil's introduction to Hash Maps. He almost had a romantic relationship with the topic :P In summary, campus to corporate was an invaluable experience and I can only feel sorry for those who missed it."
+    "testimony":
+      "It wouldn't be an exaggeration if I said that C2C was easily one of the best things to have happened in these 4 years of engineering, if not THE best. The way Havan made me feel about Java..If you feel even half those things for a girl, believe me, she's the one :P Jokes aside, this was the best teaching-learning experience of my life. Helped massively in placements of course but more importantly it was a reminder of two things. One, you don't nearly know as much as you think you do. Two, it's actually REALLY fun and not that complicated. I will also never forget Harshil's introduction to Hash Maps. He almost had a romantic relationship with the topic :P In summary, campus to corporate was an invaluable experience and I can only feel sorry for those who missed it."
   },
   {
     "firstName": "Gautami",
     "lastName": "Shelar",
-    "designation": "Oracle financial services",
-    "company": "Oracle Financial Services",
-    "avatar": "https://ibb.co/foC7tS",
+    "designation": "Software Consultant",
+    "company": "Oracle",
+    "avatar": "https://image.ibb.co/nOSwnn/gautamibw.jpg",
     "year": "2017",
-    "testimony": "Two pillars of C2C, Havan and Harshil, have supported us all the way. With their amazing approaches to problem Statements mixed with a bit of fun learning and some good amount of humour, C2C is the ultimate package to be. Thank you so much for your all efforts."
+    "testimony":
+      "Two pillars of C2C, Havan and Harshil, have supported us all the way. With their amazing approaches to problem Statements mixed with a bit of fun learning and some good amount of humour, C2C is the ultimate package to be. Thank you so much for your all efforts."
   },
   {
     "firstName": "Akshar",
     "lastName": "Panchal",
     "designation": "Business Analyst",
     "company": "Barclays",
-    "avatar": "https://ibb.co/ey3rL7",
+    "avatar": "https://image.ibb.co/cvaStS/aksharbw.jpg",
     "year": "2017",
-    "testimony": "Wonderful experience with the placement grooming sessions. Helped a lot by giving an overview of placement process and preparations which drive you to your dream firm. Also helped enhance coding skills, right from logical programs to complex data structures. Boosted my soft skills to great extent. Covered all aspects and fine details which paved way for me to get a dream job!"
+    "testimony":
+      "Wonderful experience with the placement grooming sessions. Helped a lot by giving an overview of placement process and preparations which drive you to your dream firm. Also helped enhance coding skills, right from logical programs to complex data structures. Boosted my soft skills to great extent. Covered all aspects and fine details which paved way for me to get a dream job!"
   },
   {
     "firstName": "Sayali",
     "lastName": "Kandarkar",
     "designation": "Technology Analyst",
     "company": "J.P. Morgan Chase",
-    "avatar": "https://ibb.co/kz9WL7",
+    "avatar": "https://image.ibb.co/mXk5f7/sayalibw.jpg",
     "year": "2016",
-    "testimony": "I had a great time during C2C sessions. I got to learn alot from both Harshil and Bhavik, they gave us the required boost of confidence right from the start , prepped us well &  motivated us to perform to the best of our abilities! I'd anyday recommend joining it! :)"
+    "testimony":
+      "I had a great time during C2C sessions. I got to learn alot from both Harshil and Bhavik, they gave us the required boost of confidence right from the start , prepped us well &  motivated us to perform to the best of our abilities! I'd anyday recommend joining it! :)"
   },
   {
     "firstName": "Kiran",
     "lastName": "Jawahirani",
     "designation": "Software Consultant",
     "company": "Oracle",
-    "avatar": "https://ibb.co/nzXkf7",
+    "avatar": "https://image.ibb.co/nspntS/kiranbw.jpg",
     "year": "2017",
-    "testimony": "Technical polishing with a wide range of practice questions to enhance our skills with all-round personality development points to complete the preparation for the placements."
+    "testimony":
+      "Technical polishing with a wide range of practice questions to enhance our skills with all-round personality development points to complete the preparation for the placements."
   }
 ]
