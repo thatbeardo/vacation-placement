@@ -148,7 +148,7 @@ export default {
         and minimum frustration.`,
 
       train: `Blood, sweat and respect. The first two you give (well, kinda!) and the third you earn. Say good bye to binge watching your favorite series. 
-        Bid farewell to slacking on weekends. And say hello to a rigorous training regime. Our curriculum is battle tested. After that hall of fame 
+        Bid farewell to slacking on weekends. And say hello to a rigorous training regime. Our curriculum is battle tested. After all that hall of fame 
         is not made up.`,
 
       achieve: `Once it is all over, we want YOU to carve out a place in the hall of fame. We ensure you that this programme will give you the best returns on 
