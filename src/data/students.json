@@ -1,5 +1,15 @@
 [
   {
+    "firstName": "Bhakti",
+    "lastName": "Chaudhari",
+    "designation": "Tech Analyst",
+    "company": "Morgan Stanley",
+    "avatar": "https://image.ibb.co/i8jBxn/bhaktibw.jpg",
+    "year": "2017",
+    "testimony":
+      "C2C was an amazing learning experience. Havan and Harshil were both great teachers. The content was precise, to the point and easy to understand. There was a flow to the course which helped build upon previous concepts. Each new concept was cemented through the respective assignments. The weekely coding tests were a great way to stay in touch and get some real practice. All in all, C2C was a huge help in landing the placement that I did and I encourage every junior to join in!"
+  },
+  {
     "firstName": "Niranjan",
     "lastName": "Ganapathi",
     "designation": "Software Engineer",
@@ -10,24 +20,24 @@
       "I am a student of Computer Engineering, now placed in Cimpress India Pvt Ltd. C2C gave me my job. C2C helped me make sense of three years' worth of knowledge received in college and taught me which topics to study and how much. The technical training provided was top rate and it was given in a way that was easy to understand and remember. Soft skills were my weakness, but C2C taught me the rules so well. Excelling in soft skills is all about following the rules and etiquettes. And once C2C gave them to me, it was easy. Thank you, C2C!"
   },
   {
+    "firstName": "Vatsal",
+    "lastName": "Nagda",
+    "designation": "Software Engineer",
+    "company": "Microsoft, MTech IIIT Hyderabad",
+    "avatar": "https://image.ibb.co/d29p07/vatsalbw.jpg",
+    "year": "2015",
+    "testimony":
+      "I took vacation placement training under Harshil in Summer of 2015. The course was excellent, I was introduced to many unknown concepts of Java. Also the way he taught was quite amazing, concepts that I already knew were taught with intuitive examples which was fun to learn and easy to remember. Weekly tests helped us with the revision of the things taught till that time. I was also introduced to codechef by him which is an excellent OJ. He discussed various problems of codechef in class and encouraged us to solve more and more which helped me and my friends clear the coding rounds. Never did I feel hesitant about asking doubts no matter how silly they were! It was more of a friend sharing his knowledge than a lecture! I am truly grateful to him for what I achieved!"
+  },
+  {
     "firstName": "Devika",
     "lastName": "Shanbhag",
-    "designation": "Tech Analyst",
+    "designation": "Technology Analyst",
     "company": "J.P. Morgan Chase",
     "avatar": "https://image.ibb.co/fHHbL7/devikabw.jpg",
     "year": "2017",
     "testimony":
-      "Currently busy serving Harshil's incessant work demands. Expect the best one to turn up here."
-  },
-  {
-    "firstName": "Vikrant",
-    "lastName": "Choudhary",
-    "designation": "Barclays Analyst",
-    "company": "Barclays",
-    "avatar": "https://image.ibb.co/ipq5f7/vikrantbw.jpg",
-    "year": "2017",
-    "testimony":
-      "Learning was simply fun at C2C. It covers all important topics that are required to crack any company's hiring process. Right from basics to solving complex DP problems. Regular tests at hackerrank made sure that you get a good hold of the concepts taught and more importantly you get an experience of coding on a platform used by most companies for their coding round. But the best part, you learn from your fellow seniors. They are like your friends who help you even the night before the semester exams :p"
+      "I was in FE when Harshil & Havan started taking these sessions & I could hardly code in Java back then. After a few months of being their volunteer in 2015, a student from the class asked me which company I was placed in! Both of us were gobsmacked! He was because I told him I’m just in FE yet & I was because that question really made me realize what Harshil & Havan had helped me be capable of. The journey ever since has been immense and it wouldn’t have been possible without all that I’ve learnt from them. Not just in landing a dream job, but in every step of the way, the lessons learnt & emphasized in C2C came to the rescue. It is undoubtedly the quintessential learning experience that each one of us can benefit from!"
   },
   {
     "firstName": "Aakash",
@@ -40,6 +50,16 @@
       "It wouldn't be an exaggeration if I said that C2C was easily one of the best things to have happened in these 4 years of engineering, if not THE best. The way Havan made me feel about Java..If you feel even half those things for a girl, believe me, she's the one :P Jokes aside, this was the best teaching-learning experience of my life. Helped massively in placements of course but more importantly it was a reminder of two things. One, you don't nearly know as much as you think you do. Two, it's actually REALLY fun and not that complicated. I will also never forget Harshil's introduction to Hash Maps. He almost had a romantic relationship with the topic :P In summary, campus to corporate was an invaluable experience and I can only feel sorry for those who missed it."
   },
   {
+    "firstName": "Vikrant",
+    "lastName": "Choudhary",
+    "designation": "Barclays Analyst",
+    "company": "Barclays",
+    "avatar": "https://image.ibb.co/ipq5f7/vikrantbw.jpg",
+    "year": "2017",
+    "testimony":
+      "Learning was simply fun at C2C. It covers all important topics that are required to crack any company's hiring process. Right from basics to solving complex DP problems. Regular tests at hackerrank made sure that you get a good hold of the concepts taught and more importantly you get an experience of coding on a platform used by most companies for their coding round. But the best part, you learn from your fellow seniors. They are like your friends who help you even the night before the semester exams :p"
+  },
+  {
     "firstName": "Gautami",
     "lastName": "Shelar",
     "designation": "Software Consultant",
@@ -48,6 +68,136 @@
     "year": "2017",
     "testimony":
       "Two pillars of C2C, Havan and Harshil, have supported us all the way. With their amazing approaches to problem Statements mixed with a bit of fun learning and some good amount of humour, C2C is the ultimate package to be. Thank you so much for your all efforts."
+  },
+  {
+    "firstName": "Akshit",
+    "lastName": "Sharma",
+    "designation": "Graduate Analyst",
+    "company": "Barclays",
+    "avatar": "https://image.ibb.co/fOBfq7/akshitbw.jpg",
+    "year": "2017",
+    "testimony":
+      "Placements are something that's always in the back of your mind, especially during your 6th sem. C2C really eased me into the preparation required for it. Havan and Harshil are probably the best teachers/ friends you'll find. The knowledge and passion with which they teach is something that really rubs off on all of us. They literally made me fall in love with coding and java. The course curriculum is sufficient for any company that comes to our campus. Other than the material, the moral support and the never ending motivation really lifted my morale. I wouldn't have bagged a dream job if not for C2C!"
+  },
+  {
+    "firstName": "Saket",
+    "lastName": "Deshmukh",
+    "designation": "Associate Consultant",
+    "company": "Oracle",
+    "avatar": "https://image.ibb.co/ddXZ07/saketbw.jpg",
+    "year": "2017",
+    "testimony":
+      "I joined C2C in my third year of engineering! This was the phase where you really start sweating knowing that some amazing companies, which includes your dream companies will be visiting the campus to hire! My decision of joining C2C was really worth it! The C2C team was really helpful in boosting my confidence in coding and encouraged me to explore more of Java! Starting from the first lecture, I knew this course is really different from what we usually experience! We were grilled for good with coding on Hackerrank with weekly tests. The concepts explained during theory sessions really helped a lot while preparing for interviews! So, thanks a lot C2C team, Havan and Harshil Sir!"
+  },
+  {
+    "firstName": "Kiran",
+    "lastName": "Jawahirani",
+    "designation": "Software Consultant",
+    "company": "Oracle",
+    "avatar": "https://image.ibb.co/nspntS/kiranbw.jpg",
+    "year": "2017",
+    "testimony":
+      "Technical polishing with a wide range of practice questions to enhance our skills with all-round personality development points to complete the preparation for the placements."
+  },
+  {
+    "firstName": "Komal",
+    "lastName": "Naik",
+    "designation": "Software Engineer",
+    "company": "Wissen Technologies",
+    "avatar": "https://image.ibb.co/bU1GDS/komalbw.jpg",
+    "year": "2017",
+    "testimony":
+      "C2C was a great experience for me. It gives proper direction to my efforts towards campus placement. I would like to thank Havan and Harshil for sharing your knowledge, experience with us and for your support throughout the process. Lastly, I must say C2C was a most interesting, informative and inspiring event that I've ever attained. Thank you so much!"
+  },
+  {
+    "firstName": "Asha",
+    "lastName": "Khatri",
+    "designation": "Associate Consultant",
+    "company": "Microsoft IGD",
+    "avatar": "https://image.ibb.co/b2fXnn/ashabw.jpg",
+    "year": "2016",
+    "testimony":
+      "C2C i.e campus to corporate is truly the medium which helped me to transfer my career towards corporate life. The biggest blocker in achieving same are the interviews and coding as well as aptitude tests,before joining C2C as other normal engineering student i wasnt having complete in depth understanding of programming conceps, their regular classes,mock tests and mock interviews were really helpful. Faculty especially harshil were quite approachable for any kind of doubt, i would have not got microsoft had i been not part of C2C. I appreaciate the efforts taken by faculty and would strongly recommend it for all who want to achieve place in there dream companies."
+  },
+  {
+    "firstName": "Shreya",
+    "lastName": "Sawkar",
+    "designation": "Tech Consultant",
+    "company": "Wissen Technologies",
+    "avatar": "https://image.ibb.co/idCCnn/shreyabw.jpg",
+    "year": "2016",
+    "testimony":
+      "A wonderful experience altogether... although we had time to learn only the basics of java, it was thought to us in a beautiful way that made me explore it further.....these classes were more than required to brush up the concepts of java which is essentially asked in technical interviews... I ended up with a dream job at Wissen Infotech...Many thanks to C2C program. Thanks."
+  },
+  {
+    "firstName": "Lipika",
+    "lastName": "Mahajan",
+    "designation": "Software Engineer",
+    "company": "Cimpress India",
+    "avatar": "https://image.ibb.co/mXEKYS/lipikabw.jpg",
+    "year": "2016",
+    "testimony":
+      "Joining C2C was one of the best decisions I took during Engineering.All the concepts of programming right from scratch to advance were taught in depth along with practical coding examples which helped me secure a dream placement. Mock interviews and softskills sessions were a good handson before facing actual placement process.I would like to thank Harshil for all the guidance he provided during and after the course and making me believe that anything could be achieved if sufficient hardwork is done."
+  },
+  {
+    "firstName": "Pratik",
+    "lastName": "Ghosalkar",
+    "designation": "Software Engineer",
+    "company": "Cimpress India",
+    "avatar": "https://image.ibb.co/mxXytS/pratikbw.jpg",
+    "year": "2015",
+    "testimony":
+      "It was really beneficial for  is to be trained for placement and I think Harshil and Havan did a fine job. All the study materials were focused on brushing our programming concepts and how to crack the interview. Thanks to Harshil and Havan for training us. P.S I still have a copy of the '70 min Chak de!!' styled message ; )"
+  },
+  {
+    "firstName": "Chetansi",
+    "lastName": "Nanavati",
+    "designation": "Associate Application Developer",
+    "company": "Oracle Financial Services Software",
+    "avatar": "https://image.ibb.co/gQ7mV7/chetansibw.jpg",
+    "year": "2016",
+    "testimony":
+      "The technical workshop and the grooming sessions helped me in polishing my soft and technical skills. We were given intensive practice for Aptitude tests and Coding tests. Different approaches and methods were discussed to solve a particular problem during the training. The mock interviews were very much similar to the interview that I gave for Oracle. I am grateful to the entire team for being so supportive and motivating us to rise to our fullest potentials!"
+  },
+  {
+    "firstName": "Neha",
+    "lastName": "Gupta",
+    "designation": "Technology Analyst",
+    "company": "Barclays",
+    "avatar": "https://image.ibb.co/hd45OS/nehabw.jpg",
+    "year": "2016",
+    "testimony":
+      "It served me the best. I could understand most of the Java concepts through the lectures provided by them. It was an easy access and an efficient guided approach. I got an exposure to the current placement procedure in the college. They kept me motivated throughout the process of my preparation. So long story short, sessions are pretty good to learn concepts clearly and worth your time."
+  },
+  {
+    "firstName": "Murtaza",
+    "lastName": "Godhrawala",
+    "designation": "Junior developer",
+    "company": "Ariston Capital Services Pvt Ltd.",
+    "avatar": "https://image.ibb.co/fdYocn/murtazabw.jpg",
+    "year": "2015",
+    "testimony":
+      "C2C was a great experience! Learned a lot. It was very helpful & sparked coding interest in me."
+  },
+  {
+    "firstName": "Mohit",
+    "lastName": "Pattni",
+    "designation": "Graduate Analyst",
+    "company": "Barclays",
+    "avatar": "https://image.ibb.co/fqyziS/mohitbw.jpg",
+    "year": "2015",
+    "testimony":
+      "They made java simple and interesting, right down to the framework basics. That's the first time I realised coding can be addictive."
+  },
+  {
+    "firstName": "Yash",
+    "lastName": "Mantri",
+    "designation": "Junior Software Developer",
+    "company": "Purplle (Manash Lifestyle Pvt ltd)",
+    "avatar": "https://image.ibb.co/kDe5OS/yashbw.jpg",
+    "year": "2015",
+    "testimony":
+      "The session was amazing !! All the coding skills required to clear a test were well taught. Not only the coding skills , the approach towards providing any solution was well enhanced. The practice tests during the sessions makes a huge impact !! Harshil and Havan have been great mentors , excellent guiding !!"
   },
   {
     "firstName": "Akshar",
@@ -70,13 +220,13 @@
       "I had a great time during C2C sessions. I got to learn alot from both Harshil and Bhavik, they gave us the required boost of confidence right from the start , prepped us well &  motivated us to perform to the best of our abilities! I'd anyday recommend joining it! :)"
   },
   {
-    "firstName": "Kiran",
-    "lastName": "Jawahirani",
-    "designation": "Software Consultant",
-    "company": "Oracle",
-    "avatar": "https://image.ibb.co/nspntS/kiranbw.jpg",
-    "year": "2017",
+    "firstName": "Amola",
+    "lastName": "Hinge",
+    "designation": "Technology Analyst",
+    "company": "JPMC",
+    "avatar": "https://image.ibb.co/cKUp07/amolabw.jpg",
+    "year": "2016",
     "testimony":
-      "Technical polishing with a wide range of practice questions to enhance our skills with all-round personality development points to complete the preparation for the placements."
+      "The course enabled me to harness my skills, unlock my potential and deepen my expertise in Java. All the sessions were Interactive and Interesting. Course flow was well designed. Harshil and Bhavik have been continuously morale of inspiration for me and gave me proper guidance and advices whenever required. In a nutshell, it was an amazing experience."
   }
 ]
