@@ -7,7 +7,6 @@ import HallOfFame from '@/components/HallOfFame'
 Vue.use(Router)
 
 export default new Router({
-  mode: 'history',
   routes: [
     {
       path: '/',
@@ -15,12 +14,12 @@ export default new Router({
       component: LandingPage
     },
     {
-      path: '/aboutUs',
+      path: '/AboutUs',
       name: 'AboutUs',
       component: AboutUs
     },
     {
-      path: '/hallOfFame',
+      path: '/HallOfFame',
       name: 'HallOfFame',
       component: HallOfFame
     }
