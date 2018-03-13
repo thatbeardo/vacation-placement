@@ -13,7 +13,7 @@
       <section class="my-5">
         <v-container fluid grid-list-xl>
           <v-layout row wrap justify-space-around>
-            <v-flex xs12 md8 xl8>
+            <v-flex xs12 md10 xl10>
               <v-layout row wrap justify-space-between>
 
                 <v-flex xs12 md4 lg3 xl3 v-for="student in studentList" :key="student.lastName">
