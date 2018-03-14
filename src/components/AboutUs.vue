@@ -14,17 +14,16 @@
         <v-app light>
           <v-container>
             <v-layout row wrap align-center justify-space-around>
-              <v-flex xs12 md6 xl6>
-                <br><br>
-                <v-flex class="my-3" xs12 md12 xl12>
-                  <h2 class="headline blue--text">OUR CORE VALUES</h2>
-                  <blockquote class="text-xs-justify">
-                    {{values}}
-                  </blockquote>
-                </v-flex>
-                <v-flex v-for="instructor in instructors" :key=instructor.name>
-                  <instructor-card :instructorData="instructor"></instructor-card>
-                </v-flex>
+
+              <br><br>
+              <v-flex xs12 md12 xl12 class="my-5">
+                <h2 class="headline blue--text">OUR CORE VALUES</h2>
+                <blockquote class="text-xs-justify">
+                  {{values}}
+                </blockquote>
+              </v-flex>
+              <v-flex v-for="instructor in instructors" :key=instructor.name>
+                <instructor-card :instructorData="instructor"></instructor-card>
               </v-flex>
             </v-layout>
             <br><br><br><br><br>
