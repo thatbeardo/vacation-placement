@@ -4,7 +4,7 @@
       <section>
         <v-parallax :src="require('../assets/hero.jpg')" height="600">
           <v-layout column align-center justify-center class="white--text">
-            <h1 class="white--text mb-2 display-4 text-xs-center">Campus to Corporate</h1>
+            <h1 class="white--text display-4 text-xs-center">Campus to Corporate</h1>
             <v-btn class="blue lighten-2 mt-5" dark large to="/AboutUs">
               About Us
             </v-btn>
