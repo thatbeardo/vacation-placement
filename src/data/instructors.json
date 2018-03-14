@@ -1,7 +1,7 @@
 [
   {
     "name": "Harshil Mavani",
-    "image": "https://i.imgur.com/XuUq4gd.jpg",
+    "image": "https://i.imgur.com/y9WXlxg.jpg",
     "designation": "Software Engineer",
     "company": "Cimpress India",
     "about":
@@ -9,7 +9,7 @@
   },
   {
     "name": "Havan Agrawal",
-    "image": "https://i.imgur.com/dp42cKZ.jpg",
+    "image": "https://i.imgur.com/ujLkOmb.jpg",
     "designation": "Unemployed",
     "company": "Useless",
     "about":
@@ -22,5 +22,13 @@
     "company": "J.P. Morgan",
     "about":
       "Putting up with these two is painful. At the same time, watching them quarrel over the most insignificant of things is amazing. Hi! I am Devika and I am the latest addition to their team. However, I have been watching them rock it since 2015. Harshil did not allow me to write more here. Damn that prick"
+  },
+  {
+    "name": "Sunny Patel",
+    "image": "https://i.imgur.com/nE0NtJ7.jpg",
+    "designation": "Tech Manager",
+    "company": "Morgan Stanley",
+    "about":
+      "Hi. Absolutely! This is a great time to talk. Oh all right! Yes, I can give you a description for the website. What do you want to know? What do you mean this is recording? Oh so I should start? Wow! haha! Okay, My name is Sunny and I have been working for Morgan Stanley since 2015. And I... that's enough? But I have more to add! You don't have enough space on the website?! I'll have to PAY for more words in my description?! That's non sense! Hello? Damn he hung up!"
   }
 ]
