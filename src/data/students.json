@@ -281,12 +281,42 @@
   },
   {
     "firstName": "Paras",
-    "lastName": "Ajmera",
+    "lastName": "Dedhia",
     "designation": "Technology Analyst",
     "company": "Barclays",
     "avatar": "https://image.ibb.co/hX99LH/parasbw.jpg",
     "year": "2016",
     "testimony":
       "I was a computer engineering student at KJSCE, currently working at Barclays. I had attended the C2C and I must say, it is one of the best investments I have made. The content covered is extremely helpful and covers almost everything required to get into a dream company. The C2C team is doing a great job. Please go ahead and give it a try, you'll never regret!"
+  },
+  {
+    "firstName": "Apeksha",
+    "lastName": "Jain",
+    "designation": "Graduate Analyst",
+    "company": "Barclays",
+    "avatar": "https://image.ibb.co/edp6Uc/apekshabw.jpg",
+    "year": "2015",
+    "testimony":
+      "Never thought java can be so simple and interesting. It served me the best. Data Structures, Algorithms was taught in detail. The practice tests during the sessions makes it more worth!! Harshil and Havan you have been great mentors.Thanks for guiding us."
+  },
+  {
+    "firstName": "Prajvala",
+    "lastName": "Sonawane",
+    "designation": "Associate Consultant",
+    "company": "Microsoft",
+    "avatar": "https://image.ibb.co/h0zjFH/prajvalabw.jpg",
+    "year": "2016",
+    "testimony":
+      "Well, like every other third year student, I got to hear a lot about the placements of my seniors and how few of them managed to get into the best of the companies. I had no clue as to where to start from when it came to the preparation of aptitude, coding rounds, group discussions or even the interviews.I knew I wouldn't really start the preparations on my own and needed a push. That is when I heard of C2C and thought of giving it a try. The three guys there really put in lots of efforts and gave us the best of advises on how to groom ourselves for the placements. So yes, this investment did turn in my favour and helped me in my placements to a great extent. C2C was a very good experience. Also, the fact that our own seniors are reaching out to help us in such important areas is worth appreciating."
+  },
+  {
+    "firstName": "Nikita",
+    "lastName": "Jaiswal",
+    "designation": "Software Engineer",
+    "company": "Cimpress India",
+    "avatar": "https://image.ibb.co/cgJN2x/nikitabw.jpg",
+    "year": "2016",
+    "testimony":
+      "C2C was way more helpful and worth it than I could ever imagine. Harshil is really very good at teaching. Like I still remember all those weird examples he used to give, just to explain certain concepts. Just kidding, not weird but yes quite understandable and awesome references! Joining C2C helped me a lot for all the placement rounds, be it technical or HR. C2C covered A2Z of placement preparation, ranging from programming concepts to soft skills. I certainly owe big thanks to the whole team. C2C has set a very high bar for training and I personally recommend them and encourage you to go through their training."
   }
 ]
