@@ -16,7 +16,7 @@
             <v-flex xs12 md10 xl10>
               <v-layout row wrap justify-space-between>
 
-                <v-flex xs12 md4 lg3 xl3 v-for="student in studentList" :key="student.lastName">
+                <v-flex xs12 md4 lg3 xl3 v-for="(student, index) in studentList" :key="index">
                   <student-card :studentData="student"></student-card>
                 </v-flex>
               </v-layout>
@@ -31,15 +31,15 @@
 </template>
 
 <script>
-import StudentCard from "./StudentCard";
-import * as studentList from "../data/students";
+import StudentCard from './StudentCard';
+import * as studentList from '../data/students';
 export default {
-  name: "HallOfFame",
+  name: 'HallOfFame',
   component: { StudentCard },
   data() {
     return {
       studentList: [],
-      title: "Campus to Corporate",
+      title: 'Campus to Corporate',
       show: false
     };
   },

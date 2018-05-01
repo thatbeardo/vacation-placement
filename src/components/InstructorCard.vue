@@ -13,7 +13,11 @@
             <img :src="instructorData.image" alt="avatar">
           </v-avatar>
         </v-flex>
-        <v-flex xs12 md6 xl6 class="text-xs-justify">{{instructorData.about}}</v-flex>
+        <v-flex xs12 md6 xl6 class="text-xs-justify">
+          <blockquote>{{instructorData.about}}
+            <v-icon x-large>format_quote</v-icon>
+          </blockquote>
+        </v-flex>
       </v-layout>
     </v-container>
   </v-container>
@@ -21,15 +25,15 @@
 
 <script>
 export default {
-  name: "InstructorCard",
+  name: 'InstructorCard',
   data() {
     return {
-      imagePreUrl: "../assets/"
+      imagePreUrl: '../assets/'
     };
   },
   data() {
     return {
-      width: "400px"
+      width: '400px'
     };
   },
   props: {
@@ -40,7 +44,7 @@ export default {
   methods: {
     onResize() {
       if (window.innerWidth < 400) {
-        this.width = "300px";
+        this.width = '300px';
       }
     }
   }

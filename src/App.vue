@@ -14,6 +14,9 @@
         <v-btn to="/AboutUs" title="About Us" icon>
           <v-icon>supervisor_account</v-icon>
         </v-btn>
+        <v-btn to="/CourseContent" title="Course Content" icon>
+          <v-icon>laptop_mac</v-icon>
+        </v-btn>
       </v-toolbar>
       <v-content>
         <router-view></router-view>
@@ -39,9 +42,9 @@
 
 <script>
 export default {
-  name: "App",
+  name: 'App',
   data() {
-    return { title: "Campus To Corporate" };
+    return { title: 'Campus To Corporate' };
   }
 };
 </script>

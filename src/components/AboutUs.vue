@@ -9,22 +9,20 @@
           </v-layout>
         </v-parallax>
       </section>
-
       <section>
         <v-app light>
-          <v-container>
-            <v-layout row wrap align-center justify-space-around>
+          <v-container fluid grid-list-xl>
+            <v-layout justify-space-around>
+              <v-flex xs2 md8 xl8>
 
-              <br><br>
-              <v-flex xs12 md12 xl12 class="my-5">
-                <h2 class="headline blue--text">OUR CORE VALUES</h2>
-                <blockquote class="text-xs-justify">
-                  {{values}}
-                </blockquote>
+                <v-layout row wrap justify-space-around>
+                  <br><br>
+                  <v-flex v-for="instructor in instructors" :key=instructor.name>
+                    <instructor-card :instructorData="instructor"></instructor-card>
+                  </v-flex>
+                </v-layout>
               </v-flex>
-              <v-flex v-for="instructor in instructors" :key=instructor.name>
-                <instructor-card :instructorData="instructor"></instructor-card>
-              </v-flex>
+
             </v-layout>
             <br><br><br><br><br>
           </v-container>
@@ -36,10 +34,10 @@
 </template>
 
 <script>
-import InstructorCard from "./InstructorCard";
-import instructors from "../data/instructors";
+import InstructorCard from './InstructorCard';
+import instructors from '../data/instructors';
 export default {
-  name: "AboutUs",
+  name: 'AboutUs',
   data() {
     return {
       instructors: [],
