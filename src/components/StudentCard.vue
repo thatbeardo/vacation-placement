@@ -40,7 +40,7 @@
 
 <script>
 export default {
-  name: "StudentCard",
+  name: 'StudentCard',
   props: {
     studentData: {
       type: Object

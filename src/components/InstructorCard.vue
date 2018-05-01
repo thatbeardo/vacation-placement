@@ -13,7 +13,7 @@
             <img :src="instructorData.image" alt="avatar">
           </v-avatar>
         </v-flex>
-        <v-flex xs12 md6 xl6 class="text-xs-justify">
+        <v-flex xs12 md6 xl6 class="text-xs-justify subheading">
           <blockquote>{{instructorData.about}}
             <v-icon x-large>format_quote</v-icon>
           </blockquote>
