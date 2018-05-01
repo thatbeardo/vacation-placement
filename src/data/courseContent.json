@@ -1,0 +1,81 @@
+[
+  {
+    "title": "Session 1",
+    "summary": "Introduction. Understanding Java. Competitive Programming",
+    "details":
+      "Basic Introductions. Meet the squad in real life. Also, let us try to undersand what makes Java so unique. It's important for you to understand why have we chosen Java to for this course. After all this course is not aimed at learning java but developing a deeper understanding of conceptual topics required to crack any interview. We want to see java as a tool and not the key to landing a dream job. Also, we say hello to HackerRank. A crucial portal where we will sharpen your programming skills. ",
+    "image":
+      "https://preview.ibb.co/ne6AR7/beginning_blank_blank_page_45718_min.jpg"
+  },
+  {
+    "title": "Session 2",
+    "summary":
+      "Object Oriented Concepts in Java. Introduction to Dynamic Programming",
+    "details":
+      "As we understand how Java will play a crucial role in our, journey, we take a detour and make this session Java-centric. We will learn how to design classes when asked to demonstrate certain Object Oriented Concepts. Further, we take a glimpse into Dynamic Programming and understand an important concept of the Competitive Programming Paradigm. After session we will have developed a strong foundational understanding about the layout of a basic program that will allow us to demonstrate our knowledge of Object Oriented Concepts",
+    "image":
+      "https://preview.ibb.co/hHJqR7/background_balance_business_583846_min.jpg"
+  },
+  {
+    "title": "Session 3",
+    "summary": "Test Summary Session 3",
+    "details": "Summary details session 3",
+    "image":
+      "https://preview.ibb.co/fRGoDn/business_conference_learning_7095_min.jpg"
+  },
+  {
+    "title": "Session 4",
+    "summary": "Test Summary Session 1",
+    "details": "Summary details session 1 ",
+    "image": "https://preview.ibb.co/n4tqR7/abstract_ai_art_355948_min.jpg"
+  },
+  {
+    "title": "Session 5",
+    "summary": "Test Summary Session 2",
+    "details": "Summary details session 2",
+    "image": "https://preview.ibb.co/b9K8Dn/book_books_bookshelf_159621_min.jpg"
+  },
+  {
+    "title": "Session 6",
+    "summary": "Test Summary Session 3",
+    "details": "Summary details session 3",
+    "image": "https://preview.ibb.co/fj4rYn/coding_computer_data_577585_min.jpg"
+  },
+  {
+    "title": "Session 7",
+    "summary": "Test Summary Session 1",
+    "details": "Summary details session 1 ",
+    "image": "https://preview.ibb.co/kKwS67/coaching_coders_coding_7374_min.jpg"
+  },
+  {
+    "title": "Session 8",
+    "summary": "Test Summary Session 2",
+    "details": "Summary details session 2",
+    "image":
+      "https://preview.ibb.co/jbkteS/apple_device_blur_blurry_273222_min.jpg"
+  },
+  {
+    "title": "Session 9",
+    "summary": "Test Summary Session 3",
+    "details": "Summary details session 3",
+    "image": "https://preview.ibb.co/h4L4m7/apple_class_conference_7102_min.jpg"
+  },
+  {
+    "title": "Session 10",
+    "summary": "Test Summary Session 1",
+    "details": "Summary details session 1 ",
+    "image": "https://preview.ibb.co/fj4rYn/coding_computer_data_577585_min.jpg"
+  },
+  {
+    "title": "Session 11",
+    "summary": "Test Summary Session 2",
+    "details": "Summary details session 2",
+    "image": "https://preview.ibb.co/fPc6zS/adult_arrival_beard_429248_min.jpg"
+  },
+  {
+    "title": "Session 12",
+    "summary": "Test Summary Session 3",
+    "details": "Summary details session 3",
+    "image": "https://image.ibb.co/bD54m7/battle_black_blur_260024_min.jpg"
+  }
+]
