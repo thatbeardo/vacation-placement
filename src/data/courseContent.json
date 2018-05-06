@@ -1,7 +1,8 @@
 [
   {
     "title": "Session 1",
-    "summary": "Introduction. Understanding Java. Competitive Programming",
+    "summary":
+      "Introduction. Understanding Java. Competitive Programming. Presenting yourself in an HR interview",
     "details":
       "Basic Introductions. Meet the squad in real life. Also, let us try to undersand what makes Java so unique. It's important for you to understand why have we chosen Java to for this course. After all this course is not aimed at learning java but developing a deeper understanding of conceptual topics required to crack any interview. We want to see java as a tool and not the key to landing a dream job. Also, we say hello to HackerRank. A crucial portal where we will sharpen your programming skills. ",
     "image":
@@ -10,7 +11,7 @@
   {
     "title": "Session 2",
     "summary":
-      "Object Oriented Concepts in Java. Introduction to Dynamic Programming",
+      "Object Oriented Concepts in Java. Introduction to Dynamic Programming. Resume Building",
     "details":
       "As we understand how Java will play a crucial role in our, journey, we take a detour and make this session Java-centric. We will learn how to design classes when asked to demonstrate certain Object Oriented Concepts. Further, we take a glimpse into Dynamic Programming and understand an important concept of the Competitive Programming Paradigm. After session we will have developed a strong foundational understanding about the layout of a basic program that will allow us to demonstrate our knowledge of Object Oriented Concepts",
     "image":
@@ -18,64 +19,75 @@
   },
   {
     "title": "Session 3",
-    "summary": "Test Summary Session 3",
-    "details": "Summary details session 3",
+    "summary": "Arrays. Recursion. Internships. Extra curricular activities.",
+    "details":
+      "After we get a ncie flavor of Java from session two, we resume our journey to sharpen our programming skills. In this session, we learn about arrays. As basic it may sound, we will learn a few tricks that can help you crack coding rounds of dream companies. Following, and mastering, arrays, we take a deep dive into recursion. Understand what makes it so special and when to use it. Also tackle a few recursive problems that can be very well expected in your interviews. We promise to explain recursion like never before.",
     "image":
       "https://preview.ibb.co/fRGoDn/business_conference_learning_7095_min.jpg"
   },
   {
     "title": "Session 4",
-    "summary": "Test Summary Session 1",
-    "details": "Summary details session 1 ",
+    "summary":
+      "Sorting. Complexity. String Class. BufferedReader. Group Discussion. ",
+    "details":
+      "Session 4 is where it gets interesting. Not that the other sessions were boring. But in this session we understand the mysterious Big-oh notation. Why is it a favorite interview question and how can it be your ticket to a dream company. Apart from complexity, we also brush our basics and apply this newly gained knowledge about complexity to various sorting algorithms. You will now be able to decide which sort to use when and also deduct the complexity of a given sorting algorithm. We also up our game of competitive programming as we bid farewell to traditional ways of accepting input and start using the BufferedReader instead.",
     "image": "https://preview.ibb.co/n4tqR7/abstract_ai_art_355948_min.jpg"
   },
   {
     "title": "Session 5",
-    "summary": "Test Summary Session 2",
-    "details": "Summary details session 2",
+    "summary": "Call by value. Inheritance. Data Structures",
+    "details":
+      "We address the famous question 'Is Java pass by value or pass by reference'. With a concrete understanding of this concept, we will move on to Inheritance. Inheritance always plays an important role in any system designing interview question. Which is why we cannot overlook it. You'll have a new refreshed perspective towards inheritance. More than just text book definitions. More importantly, you'll be able to apply the concepts of inheritance to solve any design related interview question hurled at you. And it is concepts like these that will definitely give you an extra edge during the interview process. Also, hello Data Structures (Theory). ",
     "image": "https://preview.ibb.co/b9K8Dn/book_books_bookshelf_159621_min.jpg"
   },
   {
     "title": "Session 6",
-    "summary": "Test Summary Session 3",
-    "details": "Summary details session 3",
+    "summary": "Revision",
+    "details":
+      "Stop. Breathe. Revise. As we are half way in our course, we take a breather. We revise anything and everything we have covered till date and solve all doubts. Do not be mistaken. We will still have hackerrank problems on this day too. But the focus for this day will be recollecting important concepts that can take you from a college graduate to a star software developer. ",
     "image": "https://preview.ibb.co/fj4rYn/coding_computer_data_577585_min.jpg"
   },
   {
     "title": "Session 7",
-    "summary": "Test Summary Session 1",
-    "details": "Summary details session 1 ",
+    "summary": "Linked List. Rubber Duck",
+    "details":
+      "Oh yes. One entire session to linked lists. Because what good is a Data Structure if you don't know the nitty-gritty. We understand why a linkedlist is so powerful. And we take a deep dive in it's implementation. No, we won't write it on a board and expect you to nod your heads. YOU write the code. You have accquired all necessary skills to do so and you will brilliantly implement a linked list. Now what's the point of having us if you can implement it on your own? We do bring some serious linked list related questions that can make or break your interview. ",
     "image": "https://preview.ibb.co/kKwS67/coaching_coders_coding_7374_min.jpg"
   },
   {
     "title": "Session 8",
-    "summary": "Test Summary Session 2",
-    "details": "Summary details session 2",
+    "summary": "The Collections Framework. Trees",
+    "details":
+      "The most important, near and dear topic for investment bankers. You'd like a job at Morgan Stanley, trust me they love the Collections Framework. This topic is generally asked to candidates who have been working since a couple of years in the software industry. Imagine the look on the face of your interviewer when he/she realizes that a college graduate knows the collections framework. Following the collections framework, we discuss and IMPLEMENT another important Data Structure - Trees. We can ensure you that this data structure, like the linked list, will be dissected completely ",
     "image":
       "https://preview.ibb.co/jbkteS/apple_device_blur_blurry_273222_min.jpg"
   },
   {
     "title": "Session 9",
-    "summary": "Test Summary Session 3",
-    "details": "Summary details session 3",
+    "summary": "Object Class. The Collections Framework Part - II. Graphs",
+    "details":
+      "Let's close a few ends and ensure complete understanding of how Java is an idea candidate for implementing design related questions. Further, we complete our Collections Framework Journey. Finally, we take a look into another formidable yet easy to understand Data Structure - Graphs. Don't be mistaken this Data Structure is easy only because you have learned a great deal of concepts through this course",
     "image": "https://preview.ibb.co/h4L4m7/apple_class_conference_7102_min.jpg"
   },
   {
     "title": "Session 10",
-    "summary": "Test Summary Session 1",
-    "details": "Summary details session 1 ",
+    "summary": "Exception Handling. Garbage Collection",
+    "details":
+      "The final key to write a great design. Exceptions, if used correctly, can make your code graceful. We will understand how this statement holds true. This understanding will allow you to design systems that are resilient. A well-designed system can put your interviewer in awe. You'll have a glimpse of what goes on in the industry today and how and why did a topic like Exceptions make it's way to our course.",
     "image": "https://preview.ibb.co/fj4rYn/coding_computer_data_577585_min.jpg"
   },
   {
     "title": "Session 11",
-    "summary": "Test Summary Session 2",
-    "details": "Summary details session 2",
-    "image": "https://preview.ibb.co/fPc6zS/adult_arrival_beard_429248_min.jpg"
+    "summary": "The Final Infinity Stone",
+    "details":
+      "Heaps. Self-Balancing Trees. Enums. Packages. Threading. The course content is carefully designed to have a flow to increase your understanding. Topics like these didn't really fall into any category. Which is why we left it out for session 11. Nevertheless, these topics will be dealt with using the same level of details. And some of these topics like Multi-threading are absolute trump (not the President) cards. Bringing such topics to the table in an interview will fetch you all the brownie points and bring you a step closer to your dream job",
+    "image": "https://image.ibb.co/bD54m7/battle_black_blur_260024_min.jpg"
   },
   {
-    "title": "Session 12",
-    "summary": "Test Summary Session 3",
-    "details": "Summary details session 3",
-    "image": "https://image.ibb.co/bD54m7/battle_black_blur_260024_min.jpg"
+    "title": "A Note from the Instructors",
+    "summary": "Pricing",
+    "details":
+      "The entire course will cost you INR 5500 if you own a laptop and can bring it to each session or INR 7000 where we provide you with a PC for every session. The sessions will be conducted in Andheri West. Each session will include hands-on practice with hackerrank",
+    "image": "https://preview.ibb.co/fPc6zS/adult_arrival_beard_429248_min.jpg"
   }
 ]
