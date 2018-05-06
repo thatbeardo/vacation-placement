@@ -22,19 +22,11 @@
         <router-view></router-view>
       </v-content>
 
-      <template>
-        <v-footer height="auto" class="grey darken-3">
-          <v-layout row wrap justify-center>
-            <v-btn v-for="link in links" :key="link.text" :to=link.to color="white" flat>
-              {{ link.text }}
-            </v-btn>
-            <v-flex xs12 py-3 text-xs-center white--text>
-              &copy;2018 —
-              <strong>Campus To Corporate</strong>
-            </v-flex>
-          </v-layout>
-        </v-footer>
-      </template>
+      <v-footer class="pa-3" color="blue lighten">
+        <v-spacer></v-spacer>
+        <div class="black--text">&copy; {{ new Date().getFullYear() }}</div>
+      </v-footer>
+
     </v-app>
   </div>
 </template>

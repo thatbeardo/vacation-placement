@@ -140,7 +140,7 @@
 
 <script>
 export default {
-  name: "LandingPage",
+  name: 'LandingPage',
   data() {
     return {
       embark: `Make a commitment. Live it, breathe it. Allow us to be an integral part of this extraordinary journey you are about to embark upon.
@@ -159,8 +159,7 @@ export default {
         company and what is available at our disposal. We are just two software developers (and professors too! duh!) who wish to teach and preach 
         programming. `,
 
-      contact: `Well, we don't really have an office! But if you really want to, get in touch with Harshil. Havan is probably snoring in the US when we are up.
-        Oh, don't worry! He knows how to use skype.`
+      contact: `Well, we don't really have an office! But the sessions will be conducted in Andheri West. Check out the course content page to get more details!.`
     };
   }
 };
