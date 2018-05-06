@@ -13,7 +13,7 @@
     "summary":
       "Object Oriented Concepts in Java. Introduction to Dynamic Programming. Resume Building",
     "details":
-      "As we understand how Java will play a crucial role in our, journey, we take a detour and make this session Java-centric. We will learn how to design classes when asked to demonstrate certain Object Oriented Concepts. Further, we take a glimpse into Dynamic Programming and understand an important concept of the Competitive Programming Paradigm. After session we will have developed a strong foundational understanding about the layout of a basic program that will allow us to demonstrate our knowledge of Object Oriented Concepts",
+      "As we understand how Java will play a crucial role in our, journey, we take a detour and make this session Java-centric. We will learn how to design classes when asked to demonstrate certain Object Oriented Concepts. Further, we take a glimpse into Dynamic Programming and understand an important concept of the Competitive Programming Paradigm. After this session we will have developed a strong foundational understanding about the layout of a basic program that will allow us to demonstrate our knowledge of Object Oriented Concepts",
     "image":
       "https://preview.ibb.co/hHJqR7/background_balance_business_583846_min.jpg"
   },
@@ -21,7 +21,7 @@
     "title": "Session 3",
     "summary": "Arrays. Recursion. Internships. Extra curricular activities.",
     "details":
-      "After we get a ncie flavor of Java from session two, we resume our journey to sharpen our programming skills. In this session, we learn about arrays. As basic it may sound, we will learn a few tricks that can help you crack coding rounds of dream companies. Following, and mastering, arrays, we take a deep dive into recursion. Understand what makes it so special and when to use it. Also tackle a few recursive problems that can be very well expected in your interviews. We promise to explain recursion like never before.",
+      "After we get a nice flavor of Java from session two, we resume our journey to sharpen our programming skills. In this session, we learn about arrays. As basic it may sound, we will learn a few tricks that can help you crack coding rounds of dream companies. Following, and mastering, arrays, we take a deep dive into recursion. Understand what makes it so special and when to use it. Also tackle a few recursive problems that can be very well expected in your interviews. We promise to explain recursion like never before.",
     "image":
       "https://preview.ibb.co/fRGoDn/business_conference_learning_7095_min.jpg"
   },
@@ -58,7 +58,7 @@
     "title": "Session 8",
     "summary": "The Collections Framework. Trees",
     "details":
-      "The most important, near and dear topic for investment bankers. You'd like a job at Morgan Stanley, trust me they love the Collections Framework. This topic is generally asked to candidates who have been working since a couple of years in the software industry. Imagine the look on the face of your interviewer when he/she realizes that a college graduate knows the collections framework. Following the collections framework, we discuss and IMPLEMENT another important Data Structure - Trees. We can ensure you that this data structure, like the linked list, will be dissected completely ",
+      "The most important, near and dear topic for investment bankers. If you'd like a job at Morgan Stanley, trust me they love the Collections Framework. This topic is generally asked to candidates who have been working since a couple of years in the software industry. Imagine the look on the face of your interviewer when he/she realizes that a college graduate knows the collections framework. Following the collections framework, we discuss and IMPLEMENT another important Data Structure - Trees. We can ensure you that this data structure, like the linked list, will be dissected completely ",
     "image":
       "https://preview.ibb.co/jbkteS/apple_device_blur_blurry_273222_min.jpg"
   },
@@ -66,7 +66,7 @@
     "title": "Session 9",
     "summary": "Object Class. The Collections Framework Part - II. Graphs",
     "details":
-      "Let's close a few ends and ensure complete understanding of how Java is an idea candidate for implementing design related questions. Further, we complete our Collections Framework Journey. Finally, we take a look into another formidable yet easy to understand Data Structure - Graphs. Don't be mistaken this Data Structure is easy only because you have learned a great deal of concepts through this course",
+      "Let's close a few ends and ensure complete understanding of how Java is an ideal candidate for implementing design related questions. Further, we complete our Collections Framework Journey. Finally, we take a look into another formidable yet easy to understand Data Structure - Graphs. Don't be mistaken this Data Structure is easy only because you have learned a great deal of concepts through this course",
     "image": "https://preview.ibb.co/h4L4m7/apple_class_conference_7102_min.jpg"
   },
   {
@@ -80,7 +80,7 @@
     "title": "Session 11",
     "summary": "The Final Infinity Stone",
     "details":
-      "Heaps. Self-Balancing Trees. Enums. Packages. Threading. The course content is carefully designed to have a flow to increase your understanding. Topics like these didn't really fall into any category. Which is why we left it out for session 11. Nevertheless, these topics will be dealt with using the same level of details. And some of these topics like Multi-threading are absolute trump (not the President) cards. Bringing such topics to the table in an interview will fetch you all the brownie points and bring you a step closer to your dream job",
+      "Heaps. Self-Balancing Trees. Enums. Packages. Threading. The course content is carefully designed to have a flow to increase your understanding. Topics like these didn't really fall into any category. Which is why we left it out for session 11. Nevertheless, these topics will be dealt with using the same level of detail. And some of these topics like Multi-threading are absolute trump (not the President) cards. Bringing such topics to the table in an interview will fetch you all the brownie points and bring you a step closer to your dream job",
     "image": "https://image.ibb.co/bD54m7/battle_black_blur_260024_min.jpg"
   }
 ]
