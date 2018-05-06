@@ -22,20 +22,19 @@
         <router-view></router-view>
       </v-content>
 
-      <v-footer class="blue light-2">
-        <v-layout row wrap align-center>
-          <v-flex xs12>
-            <div class="white--text ml-3">
-              Made with
-              <v-icon class="red--text">favorite</v-icon>
-              by
-              <a class="white--text" href="https://www.linkedin.com/in/havanagrawal/" target="_blank">Havan</a>
-              and
-              <a class="white--text" href="https://www.linkedin.com/in/harshil-mavani/">Harshil</a>
-            </div>
-          </v-flex>
-        </v-layout>
-      </v-footer>
+      <template>
+        <v-footer height="auto" class="grey darken-3">
+          <v-layout row wrap justify-center>
+            <v-btn v-for="link in links" :key="link.text" :to=link.to color="white" flat>
+              {{ link.text }}
+            </v-btn>
+            <v-flex xs12 py-3 text-xs-center white--text>
+              &copy;2018 —
+              <strong>Campus To Corporate</strong>
+            </v-flex>
+          </v-layout>
+        </v-footer>
+      </template>
     </v-app>
   </div>
 </template>
@@ -44,7 +43,15 @@
 export default {
   name: 'App',
   data() {
-    return { title: 'Campus To Corporate' };
+    return {
+      title: 'Campus To Corporate',
+      links: [
+        { text: 'Home', to: '/' },
+        { text: 'About Us', to: '/AboutUs' },
+        { text: 'Course Content', to: '/CourseContent' },
+        { text: 'Hall Of Fame', to: '/HallOfFame' }
+      ]
+    };
   }
 };
 </script>
