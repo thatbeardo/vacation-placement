@@ -1,6 +1,5 @@
 <template>
   <v-app>
-
     <v-content>
       <section>
         <v-parallax :src="require('../assets/squad.jpg')" height="600">
@@ -13,7 +12,7 @@
         <v-app light>
           <v-container fluid grid-list-xl>
             <v-layout justify-space-around>
-              <v-flex xs2 md8 xl8>
+              <v-flex xs12 md10 xl10>
 
                 <v-layout row wrap justify-space-around>
                   <br><br>
