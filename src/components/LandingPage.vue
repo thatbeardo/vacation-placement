@@ -109,7 +109,7 @@
                       <v-icon class="blue--text text--lighten-2">phone</v-icon>
                     </v-list-tile-action>
                     <v-list-tile-content>
-                      <v-list-tile-title>+91-8655446473</v-list-tile-title>
+                      <v-list-tile-title>+1-6177923708</v-list-tile-title>
                     </v-list-tile-content>
                   </v-list-tile>
                   <v-list-tile>
@@ -159,7 +159,7 @@ export default {
         company and what is available at our disposal. We are just two software developers (and professors too! duh!) who wish to teach and preach 
         programming. `,
 
-      contact: `Well, we don't really have an office! But the sessions will be conducted in Andheri West. Check out the course content page to get more details!.`
+      contact: `Well, we don't really have an office! But the sessions will be conducted in Sion West. Check out the course content page to get more details!.`
     };
   }
 };
