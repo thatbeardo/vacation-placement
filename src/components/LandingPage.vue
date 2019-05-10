@@ -2,10 +2,23 @@
   <v-app light>
     <v-content>
       <section>
-        <v-parallax :src="require('../assets/hero.jpg')" height="600">
-          <v-layout column align-center justify-center class="white--text">
+        <v-parallax
+          :src="require('../assets/hero.jpg')"
+          height="600"
+        >
+          <v-layout
+            column
+            align-center
+            justify-center
+            class="white--text"
+          >
             <h1 class="white--text display-4 text-xs-center">Campus to Corporate</h1>
-            <v-btn class="blue lighten-2 mt-5" dark large to="/AboutUs">
+            <v-btn
+              class="blue lighten-2 mt-5"
+              dark
+              large
+              to="/AboutUs"
+            >
               About Us
             </v-btn>
           </v-layout>`
@@ -13,8 +26,17 @@
       </section>
 
       <section>
-        <v-layout column wrap class="my-5" align-center>
-          <v-flex xs12 sm4 class="my-3">
+        <v-layout
+          column
+          wrap
+          class="my-5"
+          align-center
+        >
+          <v-flex
+            xs12
+            sm4
+            class="my-3"
+          >
             <div class="text-xs-center">
               <h2 class="headline">The best way to learn coding</h2>
               <span class="subheading">
@@ -24,13 +46,26 @@
           </v-flex>
           <v-flex xs12>
             <v-container grid-list-xl>
-              <v-layout row wrap align-center>
-                <v-flex xs12 md4>
+              <v-layout
+                row
+                wrap
+                align-center
+              >
+                <v-flex
+                  xs12
+                  md4
+                >
                   <v-card class="elevation-0 transparent">
                     <v-card-text class="text-xs-center">
-                      <v-icon x-large class="blue--text text--lighten-2">laptop</v-icon>
+                      <v-icon
+                        x-large
+                        class="blue--text text--lighten-2"
+                      >laptop</v-icon>
                     </v-card-text>
-                    <v-card-title primary-title class="layout justify-center">
+                    <v-card-title
+                      primary-title
+                      class="layout justify-center"
+                    >
                       <div class="headline text-xs-center">Embark</div>
                     </v-card-title>
                     <v-card-text class="text-xs-justify">
@@ -38,12 +73,21 @@
                     </v-card-text>
                   </v-card>
                 </v-flex>
-                <v-flex xs12 md4>
+                <v-flex
+                  xs12
+                  md4
+                >
                   <v-card class="elevation-0 transparent">
                     <v-card-text class="text-xs-center">
-                      <v-icon x-large class="blue--text text--lighten-2">build</v-icon>
+                      <v-icon
+                        x-large
+                        class="blue--text text--lighten-2"
+                      >build</v-icon>
                     </v-card-text>
-                    <v-card-title primary-title class="layout justify-center">
+                    <v-card-title
+                      primary-title
+                      class="layout justify-center"
+                    >
                       <div class="headline">Train</div>
                     </v-card-title>
                     <v-card-text class="text-xs-justify">
@@ -51,12 +95,21 @@
                     </v-card-text>
                   </v-card>
                 </v-flex>
-                <v-flex xs12 md4>
+                <v-flex
+                  xs12
+                  md4
+                >
                   <v-card class="elevation-0 transparent">
                     <v-card-text class="text-xs-center">
-                      <v-icon x-large class="blue--text text--lighten-2">attach_money</v-icon>
+                      <v-icon
+                        x-large
+                        class="blue--text text--lighten-2"
+                      >attach_money</v-icon>
                     </v-card-text>
-                    <v-card-title primary-title class="layout justify-center">
+                    <v-card-title
+                      primary-title
+                      class="layout justify-center"
+                    >
                       <div class="headline text-xs-center">Achieve</div>
                     </v-card-title>
                     <v-card-text class="text-xs-justify">
@@ -71,11 +124,23 @@
       </section>
 
       <section>
-        <v-parallax :src="require('../assets/section.jpg')" height="380">
-          <v-layout column align-center justify-center>
+        <v-parallax
+          :src="require('../assets/section.jpg')"
+          height="380"
+        >
+          <v-layout
+            column
+            align-center
+            justify-center
+          >
             <div class="headline white--text mb-3 text-xs-center">Learning to code has never been easier</div>
             <em>Make the most of your weekends</em>
-            <v-btn class="blue lighten-2 mt-5" dark large to="/HallOfFame">
+            <v-btn
+              class="blue lighten-2 mt-5"
+              dark
+              large
+              to="/HallOfFame"
+            >
               Hall of Fame
             </v-btn>
           </v-layout>
@@ -84,10 +149,21 @@
 
       <section>
         <v-container grid-list-xl>
-          <v-layout row wrap justify-center class="my-5">
-            <v-flex xs12 sm4>
+          <v-layout
+            row
+            wrap
+            justify-center
+            class="my-5"
+          >
+            <v-flex
+              xs12
+              sm4
+            >
               <v-card class="elevation-0 transparent">
-                <v-card-title primary-title class="layout justify-center">
+                <v-card-title
+                  primary-title
+                  class="layout justify-center"
+                >
                   <div class="headline">Company info</div>
                 </v-card-title>
                 <v-card-text class="text-xs-justify">
@@ -95,9 +171,16 @@
                 </v-card-text>
               </v-card>
             </v-flex>
-            <v-flex xs12 sm4 offset-sm1>
+            <v-flex
+              xs12
+              sm4
+              offset-sm1
+            >
               <v-card class="elevation-0 transparent">
-                <v-card-title primary-title class="layout justify-center">
+                <v-card-title
+                  primary-title
+                  class="layout justify-center"
+                >
                   <div class="headline">Contact us</div>
                 </v-card-title>
                 <v-card-text class="text-xs-justify">
@@ -140,7 +223,7 @@
 
 <script>
 export default {
-  name: 'LandingPage',
+  name: "LandingPage",
   data() {
     return {
       embark: `Make a commitment. Live it, breathe it. Allow us to be an integral part of this extraordinary journey you are about to embark upon.
@@ -164,7 +247,3 @@ export default {
   }
 };
 </script>
-
-<style>
-
-</style>
