@@ -1,9 +1,9 @@
 
 <template>
     <div class="enlarge">
-        <v-card>
-            <v-card-media :src="studentData.avatar" height=" 200px" contain>
-            </v-card-media>
+        <v-card @click="toggleVisibility">
+            <v-img :src="studentData.avatar" height=" 200px" contain>
+            </v-img>
             <v-card-title primary-title>
                 <div>
                     <v-container fluid grid-list-xs>
@@ -20,7 +20,7 @@
             </v-card-title>
             <v-flex xs12 md12>
                 <v-card-actions>
-                    <v-btn flat color="blue" @click="toggleVisibility">{{ studentData.firstName }}'s take on C2C </v-btn>
+                    <v-btn flat color="blue">{{ studentData.firstName }}'s take on C2C </v-btn>
                 </v-card-actions>
                 <v-dialog v-model="show" max-width="400">
                     <v-card>

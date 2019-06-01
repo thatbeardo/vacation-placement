@@ -1,5 +1,85 @@
 [
   {
+    "firstName": "Rishi",
+    "lastName": "Ghai",
+    "designation": "Trainee Analyst",
+    "company": "Wissen Technology",
+    "avatar": "https://i.ibb.co/sPpkQxC/DSC-0236.jpg" ,
+    "year": "2018",
+    "testimony":
+      "I  would like to sincerely thank Devika, Sunny, Harshil and Havan for conducting C2C. C2C was definitely one of the biggest factors that helped me to get placed in my dream company. They helped me with all the important parts of placement like data structures, algorithms, competitive programming, dbms and aptitude. The learning material provided by them was of excellent quality. They were always available to solve our doubts at any time of the day. Each one of them is extremely helpful and supportive. I would definitely recommend students wanting to get into a dream company, to join C2C."
+  },
+  {
+    "firstName": "Mohit",
+    "lastName": "Shah",
+    "designation": "Wissen Technology",
+    "company": "Software Trainee Analyst",
+    "avatar": "https://i.ibb.co/fYM1bsP/Photo-from-Mohit-Shah.jpg",
+    "year": "2018",
+    "testimony":
+      "Learning in C2C was quite unique experience, totally different from college classrooms. Knowledge that they shared and tips and tricks they gave were quiet helpful to me during my placements. They taught me Java in such a way that I fell in love with it. Coding was my weak part which they improved by constantly helping me practice sums on various platforms like codechef, hackerrank and leetcode. Devika was very helpful at every times when I had difficulty in concepts and also when enquiring about the company. Due to their efforts, I got 3 placement opportunities and I am grateful to them. I would recommend each and everyone to C2C who want to learn and excel their placements.  "
+  },
+  {
+    "firstName": "Akul",
+    "lastName": "Rishi",
+    "designation": "Barclays",
+    "company": "Barclays Analyst 3",
+    "avatar": "https://i.ibb.co/tCh3WGR/F4666-B61-9925-4595-A214-8-B579-A5-B4518.jpg",
+    "year": "2018",
+    "testimony":
+      "Loved the way the concepts were taught. All doubts were cleared, regular homework and practice made me thorough with the problem solving skills. The tests made me confident about myself as I went from one to another. And most importantly, I started enjoying OJs."
+  },
+  {
+    "firstName": "Rushabh",
+    "lastName": "Shah",
+    "designation": "Wissen Technology",
+    "company": "Trainee Analyst",
+    "avatar": "https://i.ibb.co/HYrBWsR/Pics-Art-06-01-10-55-20.jpg",
+    "year": "2018",
+    "testimony":
+      "C2C cleared my mind on how to prepare for interviews and helped me set path to achieve my dream job. C2C just didn't helped me to improve my technical skills but also helped me improve my soft skills and build my self confidence. Thank you very much C2C for helping me achieving my dream job. Attachments area"
+  },
+  {
+    "firstName": "Nikesh",
+    "lastName": "Shah",
+    "designation": "Software Engineer",
+    "company": "Data Engineer ",
+    "avatar": "https://i.ibb.co/QQSnyvw/Whats-App-Image-2019-05-31-at-5-47-59-PM.jpg",
+    "year": "2018",
+    "testimony":
+      "Experience about C2C: So it was mid May and I was all confused about what all should I know to get placed in a good company. From where should I begin my preparations and in how much time will I be completely ready to face my first interview. Things were going haywire when a message popped up in my class group about C2C. I thought it would be a good course for getting started on my interview preps. But the moment this entire teaching course got over I was very confident about cracking interviews. Infact their teaching was so effective that I was able to make it to Quantiphi midway during the course. Devika, C2C Mentor, payed personal attention to each and every student, tracked their progress of online coding and helped us solve even the silliest of our doubts. Not only she helped us improve our coding skills but also she helped us with our soft skills. Basically C2C taught everything one must know , starting from scratch, to crack a dream company's interview. Thank you C2C."
+  },
+  {
+    "firstName": "Gauri",
+    "lastName": "Urhekar",
+    "designation": "Software Engineer",
+    "company": "MicroFocus",
+    "avatar": "https://i.ibb.co/hXqFB5g/Whats-App-Image-2019-05-31-at-5-45-20-PM.jpg",
+    "year": "2018",
+    "testimony":
+      "Coming from EXTC, I was a little wary of Java.Even though I liked coding and wanted to explore more, I just didn't know where to start.Enrolling in C2C was probably one of the best decisions I made in engineering.It not only helped me in clearing my basics but also help ed develop my logic which is of utmost importance in competitive programming.The course is uniquely designed and at the end of it, you will feel ready to face the dreaded coding round head on, irrespective of the engineering stream you come from."
+  },
+  {
+    "firstName": "Nithya",
+    "lastName": "Mani",
+    "designation": "Solutions Engineer",
+    "company": "Browser Stack",
+    "avatar": "https://i.ibb.co/gW148B9/Whats-App-Image-2019-05-31-at-5-41-45-PM.jpg",
+    "year": "2018",
+    "testimony":
+      "C2C was a turning point towards the placement process. It not only taught me how to code, but mainly how to deal with the interview's and stuff. I never gave up on my dreams till the end, because of the constant encouragement and support from C2C. Thankyou for giving boost that i needed throughout the placement process."
+  },
+  {
+    "firstName": "Mukesh",
+    "lastName": "Wadhwa",
+    "designation": "Associate Project Manager",
+    "company": "Microsoft",
+    "avatar": "https://i.ibb.co/kmV3Pfk/Whats-App-Image-2019-05-31-at-5-41-06-PM.jpg",
+    "year": "2018",
+    "testimony":
+      "It was the regular day of college when notification on my phone tells C2C introductory seminar with 4 legend mentors mentioned in bottom line of the email. After attending that session of 30 mins it changed my mind completely! The energy these guys have is next level. Harshil always used to say 'I promise you to make worth of each penny paid by your parents' and the whole team did it ! Getting started with Hello world programs to complex coding problems on hackerank, from soft skills to boost you on your interview day,  they helped in everything. The suggestions given by them helped me to crack my first interview in one go! They work harder for us, weekly tests, personal attention, unique teaching skills, countless efforts will make your road easy for dream compaines. Be a part of C2C and accelerate your skills! Kudos to Devika for special support, Harshil for motivation, Sunny to solve the doubts and Havan to arrange test series!"
+  },
+  {
     "firstName": "Bhakti",
     "lastName": "Chaudhari",
     "designation": "Tech Analyst",
