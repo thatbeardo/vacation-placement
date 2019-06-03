@@ -1,5 +1,25 @@
 [
   {
+    "firstName": "Tanmay ",
+    "lastName": "Dhaundiyal ",
+    "designation": "Software Developer",
+    "company": "Barclays",
+    "avatar": "https://i.ibb.co/BNXq6Rw/Whats-App-Image-2019-06-01-at-2-50-09-PM.jpg" ,
+    "year": "2018",
+    "testimony":
+      "C2C is the finishing touch required after 3 years of engineering to sit for an interview. There is a major improvement in your personality because of the boosted confidence after the course. I am grateful for their support and I hope they continue the good work."
+  },
+  {
+    "firstName": "Sumit ",
+    "lastName": "Poojary",
+    "designation": "R&D Engineer",
+    "company": "Microfocus",
+    "avatar": "https://i.ibb.co/bbLKXHh/Whats-App-Image-2019-06-01-at-2-51-46-PM.jpg" ,
+    "year": "2018",
+    "testimony":
+      "It was a very good experience with C2C. Needful. It helps you to build your foundation, get a grasp of the OOPS concept and also develop personality skills. It has helped me throughout my placement activities. The question bank tailored in the course proved fruitful to increase my problem solving skills."
+  },
+  {
     "firstName": "Rishi",
     "lastName": "Ghai",
     "designation": "Trainee Analyst",
@@ -40,10 +60,20 @@
       "C2C cleared my mind on how to prepare for interviews and helped me set path to achieve my dream job. C2C just didn't helped me to improve my technical skills but also helped me improve my soft skills and build my self confidence. Thank you very much C2C for helping me achieving my dream job. Attachments area"
   },
   {
+    "firstName": "Hussain",
+    "lastName": "Ratlamwala ",
+    "designation": "SDE",
+    "company": "Browserstack",
+    "avatar": "https://i.ibb.co/6nLkF4v/Whats-App-Image-2019-06-01-at-3-37-53-PM.jpg" ,
+    "year": "2018",
+    "testimony":
+      "Best way to prepare for placement with some fun"
+  },
+  {
     "firstName": "Nikesh",
     "lastName": "Shah",
     "designation": "Software Engineer",
-    "company": "Data Engineer ",
+    "company": "Quantiphi",
     "avatar": "https://i.ibb.co/QQSnyvw/Whats-App-Image-2019-05-31-at-5-47-59-PM.jpg",
     "year": "2018",
     "testimony":
